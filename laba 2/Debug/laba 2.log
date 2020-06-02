@@ -1,0 +1,11 @@
+﻿  SIMD.cpp
+c:\users\notepad\desktop\sem 4\mrzvis\laba 2\laba 2\laba 2\simd.cpp(221): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\notepad\desktop\sem 4\mrzvis\laba 2\laba 2\laba 2\simd.cpp(348): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+c:\users\notepad\desktop\sem 4\mrzvis\laba 2\laba 2\laba 2\simd.cpp(375): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+c:\users\notepad\desktop\sem 4\mrzvis\laba 2\laba 2\laba 2\simd.cpp(402): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+c:\users\notepad\desktop\sem 4\mrzvis\laba 2\laba 2\laba 2\simd.cpp(429): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+c:\users\notepad\desktop\sem 4\mrzvis\laba 2\laba 2\laba 2\simd.cpp(456): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+c:\users\notepad\desktop\sem 4\mrzvis\laba 2\laba 2\laba 2\simd.cpp(551): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+c:\users\notepad\desktop\sem 4\mrzvis\laba 2\laba 2\laba 2\simd.cpp(575): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+c:\users\notepad\desktop\sem 4\mrzvis\laba 2\laba 2\laba 2\simd.cpp(599): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+  laba 2.vcxproj -> C:\Users\NotePad\Desktop\sem 4\MRZviS\laba 2\laba 2\Debug\laba 2.exe
